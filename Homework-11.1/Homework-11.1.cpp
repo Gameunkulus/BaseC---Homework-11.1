@@ -3,7 +3,7 @@
 #include <iostream>;
 #include <string>;
 #include <Windows.h>;
-#include "/Users/bugr2/source/repos/Homework-11.1/GreetFolder/HelloPers.h";
+#include "../GreetFolder/HelloPers.h";
 
 using namespace std;
 
